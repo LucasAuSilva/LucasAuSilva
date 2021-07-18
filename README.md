@@ -15,7 +15,7 @@
 
   <p>I'm passionate for programming and love to study more about it, always doing the possible for becoming better in this, as well for technologies in general.</p>
   <p>I'm try my best in every project that i do.</p>
-  <p>And i like to be challenge to do stuff, because is always with the challenge that we learn.</p>
+  <p>And i like to do challenge stuff, because is always with the challenge that we learn.</p>
   <p><a href="https://www.linkedin.com/in/lucas-augusto-silva-6a12aa135/"><img src="https://img.shields.io/badge/Linkedin-LucasAuSilva-blue"></a> </p>
 </div>
 
