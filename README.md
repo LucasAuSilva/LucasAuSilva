@@ -10,7 +10,6 @@
 
 <div>
   <h2>Somethings about myself</h2>
-  <hr>
 
   <img align="right" width="180" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
 
