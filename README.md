@@ -4,7 +4,7 @@
   <ul>
     <li><p>Software Engineering at PUC PR</p></li>
     <li><p>Doing the courses of Alura</p></li>
-    <li><p>Working on projects with Javascript, Typescript, NestJS, ReactJS, NextJS, styled-components and many JS things</p></li>
+    <li><p>Studying Clean Code, TDD, DDD and other stuff about software architecture</p></li>
   </ul>
 </div>
 
