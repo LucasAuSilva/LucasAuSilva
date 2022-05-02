@@ -3,7 +3,7 @@
   <p> My name is Lucas Augusto da Silva, i`m current studying </p>
   <ul>
     <li><p>Software Engineering at PUC PR</p></li>
-    <li><p>Doing the courses of Alura</p></li>
+    <li><p>Doing the courses, about programming</p></li>
     <li><p>Studying Clean Code, TDD, DDD and other stuff about software architecture</p></li>
   </ul>
 </div>
